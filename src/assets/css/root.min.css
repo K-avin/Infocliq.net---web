@@ -1,0 +1,13 @@
+.color-primary{
+    color: #EF4444;
+}
+.color-primary-bg{
+    background-color: #EF4444;    
+}
+.color-primary-bg:hover{
+    background-color: #EF4444;    
+}
+.heading-section .top-heading{
+    text-transform: uppercase;
+    font-size: 14px;
+}
