@@ -1,3 +1,3 @@
 <template>
-    <h5>Services</h5>
+    <router-view></router-view>
 </template>
